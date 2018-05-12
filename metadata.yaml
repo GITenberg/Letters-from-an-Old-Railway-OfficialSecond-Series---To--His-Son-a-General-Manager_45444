@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42949'
     url: http://www.gutenberg.org/2009/agents/42949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45444#Letters-from-an-Old-Railway-OfficialSecond-Series---To--His-Son-a-General-Manager
 gutenberg_issued: '2014-04-21'
 gutenberg_type: Text
 identifiers:
